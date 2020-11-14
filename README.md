@@ -1,2 +1,3 @@
 # Daniel-Tabnak
-personal site (html, css)
+
+A personal portfolio webite built from html & css
