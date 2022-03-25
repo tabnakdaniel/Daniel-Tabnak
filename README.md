@@ -1,6 +1,6 @@
 # Daniel-Tabnak
 
-A personal portfolio webite built from html & css
+A personal portfolio wesite built from html & css
 
 Can be found at https://bit.ly/2L7rm8I
 
